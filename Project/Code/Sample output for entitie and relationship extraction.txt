@@ -1,0 +1,257 @@
+I have used Maxell tapes for 30+ years so I was surprised at the exceptionally poor quality of these tapes.  The 8-hour tapes are equally as bad as these 6-hour ones.  They are now made in Korea instead of formerly in Canada and that might have something to do with the serious decline in quality. After 1-4 uses the picture rolls on the screen and cannot be resolved with tracking controls, there are severe dropouts and the tape mechanism makes so much noise that I honestly thought that my VCR was destroyed and I would have to buy a new one. I checked some of my other new Maxell tapes and most of them had the same results. I tried a TDK tape and was relieved to find that my VCR was still functioning perfectly so I threw out all of my new Maxells and am now using TDK and Sony tapes, which work just fine. I am so disappointed in Maxell but I guess they don't care about VHS tape quality anymore.
+ entities:  Maxell
+ entities:  Canada
+ entities:  Korea
+ entities:  VCR
+ entities:  Sony
+ entities:  TDK
+ entities:  VHS
+
+This allowed me to mount my TV to the ceiling without having to glue a extension cord midway of the wall.Item arrived fast and I've had no issues with it or the seller
+I purchased the Skip Dr at Radio Shack thinking that this would be great to clean up those DVD's that begin to freeze up when they get dirty. I got home home and sure enough I put a movie in the DVD player for the kids and it began to freeze up. I would normally just use soap and water for a dirty DVD and every thing would be fine, but this time I tried my new Skip Dr. The DVD no longer freezes up -- IT HAS BEEN DESTROYED BY THE SKIP DR! THE RESURFACING PROCESS HAS LEFT THOUSANDS OF FINE SCRATCHES ON THE SURFACE OF THE DVD WHERE NONE HAD BEEN BEFORE! THE DVD PLAYER CAN NO LONGER READ THE DISC. YES, I HAVE USED THE BUFFING SQUARE AND TRIED REPEATING THE PROCEDURE A NUMBBER OF TIMES TO SEE IF THERE IS ANY IMPROVEMENT. -NO CIGAR!  I AM TAKING IT BACK TO THE SHACK FOR A REFUND!
+ entities:  DVD
+ entities:  Radio Shack
+ entities:  SKIP
+ entities:  THE DVD
+ entities:  DISC
+ entities:  SQUARE
+ entities:  BUFFING
+ entities:  CIGAR
+ entities:  SHACK
+
+Well built.  Secure and functional for use with the T6400.  (Note: Several online retailers advertise this accessory for the T6400, though it is clearly built for use with a smaller radio.)
+ entities:  Secure
+ entities:  T6400
+
+The first peron to review this incorrectly stated that it doesn't come with software for handhleds. That person chose to buy it without and save some $$ and then complained about having to pay extra for it because he/she bought the wrong software package.  Delorme did the right thing and offered us options.  I just ordered mine and I have no plans on using with a HH so I'm very happy that I didn't have to buy the HH software.  Just don't be dumb and read what you are buying before you buy it.  Nemerous people have highly recommended this to me, although I have heard that MS Mappoint has better maps and should be used instead when you have it as an option.  Storing 50,000 data points without a connection to a computer is awesome.  I will be able to take the unit with me on a bike ride and analize the workout later hopefully looking at the route, elevation, etc.  Too bad it is only in Yellow...
+ entities:  Delorme
+ entities:  Yellow
+
+This was a scam from the get go! It was advertised as a different more modern chip and as soon as I installed it, it crashed my brand new Motorola phone. Beware when dealing with this supplier, their advertising technique is formulated to mislead the consumer into believing it to be a modern high quality chip, it is a joke to say the least!
+ entities:  scam
+
+Very well produced as one would expect. Great concert and record of that tour. Highly recommended for all Paul Simon officianados
+ entities:  Great
+ entities:  Highly
+ entities:  Paul Simon
+
+These are great headphones save for one key flaw: the wires are fragile and apparently frayed internally, and the right headphone died within 5 months. They're junk now and I'll probably order another pair despite my anger.
+Got these after researching a lot of headphones. These headphones are great for a dj. Great sound and you can hear all that you need to mix and blend music. I love these bad boys!
+ entities:  Great
+
+Belkin always delivers good products - and needed patch cables for a small mobile network, so of course picked Belkin
+ entities:  Belkin
+
+I've had much fun with this camera. Very user friendly menus, great features, durable.  My only wishes for this camera is to have a better zoom feature and longer battery life.
+ entities: battery
+ entities: camera
+
+I have used these for many years.  They are reasonably priced, have great sound, and are comfortable to wearwith soft cushion over the ear cushions.
+What you see is what you get. I have it now for 3 years, with no problems. My GPS has been since day one inside this case and it looks like brand new.
+ entities:  GPS
+
+I am kind of collector of short-wave portable radios. When I read about the 909, it seemed to me like the definitive portable (I don't like the 'other definitive, Sony 2100).  So, I bought it from Amazon (good price and  reliable store) and as soon as it was delivered to me I benchmarked it  against the first radio I got on hand: a modest fifteen years old Phillips  COMPASS. Well, to my surprise, the Phillips showed twice as sensitive as  the Sangean. Even with the sangean's whip full extended, and the Phillips'  one totally folded, the Phillips clearly outperformed the 909. When  switched to an external antenna, the Sangean improved 100%, but the point  is, what a portable means? why such a good radio performs so poor with such  a long whip antenna? If you need the receiver to carry it around while  travelling, then check the Sony 7600g or grundig YB400PE (both with  superior performance as portable). Otherwise, with an ext. antenna, the  radio is an excellent all-kind-of-features receiver. The FM capture is  superb, as well as the SSB legibility. The sound is quite good, even if not  as good as the grundig's.
+ entities:  Amazon
+ entities:  Phillips COMPASS
+ entities:  Phillips
+ entities:  Sangean
+ entities:  YB400PE
+ entities:  SSB
+
+I've been in the technical end of the computing business for over 20 years - done a lot of networking - thought it would be nice to add wireless capability to my home network, so purchased the WAP11 & WPC11 (the pcmcia wireless card that goes with it.) Software installed ok & got it to work. The problem is that the WAP11 has no useful range. As long as you are located in the same room and have "line of sight" with the WAP11, it's ok. If you go out of the room, or any way get out of the line of sight, even the next room, the signal quality goes to poor and the link drops. I have regular, normal wood and sheet rock walls. Packing mine back up for returning...doesn't work as advertised. Very dissapointing.
+ entities:  pcmcia wireless card
+ entities:  WAP11
+ entities:  WPC11
+ entities:  Software
+
+I got one of these last week, and I'm extremely satisfied.  I'm a serious gamer, and going from my old 17 inch NEC CRT monitor to this I was worried about the LCD latency problem.  After using it for almost a week, I don't think I'll ever be going back to a CRT monitor.  While the latency problem is there as with all LCDs, it only results in a very slight blurring around the edges of objects as they move onscreen, definitely not a big problem--and when you consider the low power consumption, low radiation, and incredible clarity of the monitor, this is a great purchase for anyone, gamers and casual users alike.By the way, pair the black model of the 1530V with a pair of Monsoon MM-700 panel speakers by Songistix and you have one incredible looking--and sounding--desktop setup. =)
+ entities:  LCD
+ entities:  NEC
+ entities:  CRT
+ entities:  LCDs
+ entities:  Monsoon
+
+I bought this router around March 2003.  No problems with installation and I have been very happy with the speed, running three machines on it.In late December, I noticed that my connection speed was down significantly.  After working through my cable internet provider's technical support, they pointed me to the router.  I called LinkSys and was told I needed to update the firmware.  Hours of frustration later, the thing is 'dead in the water'.I undertsand that the this is a common problem over time.  Now I am looking at what to replace this with.  Be aware that you may buying a time bomb - may work for a while then die.
+ entities:  LinkSys
+ entities:  Hours
+
+My Sony was starting to ghost so it was time to start shopping. Sony's btw, have a great picture but seem to last just about as long as their warranty before they die. This is based on what I have read and and others I know with Trinitrons. Anyway, I figured I would look at moving up to a 19" from my 17". ...Its picture is just as bright as a Trinitron without the annoying thin lines. It is clear and text is easy to read. The colors are great. It fit into the same spot on my computer desk as my 17". Buy one, you won't be disappointed!!
+ entities:  Sony
+ entities:  picture
+
+I owned a pair of MDR-V700s for about two weeks before deciding to return them.  Mostly I did so because of reviews I read here and elsewhere that panned these for lack of durability.  After a bit of deliberation, I opted for the Sony MDR-V6s, which have been around for a long time and have earned a loyal fan base willing to attest to their sound quality and durability.  You can find them online for less than the MDR-V700s, and I think they sound better too.
+ entities:  Sony
+ entities:  MDR-V700
+
+I recently purchased this computer sleeve from Amazon.com because I couldn't find it anywhere here in Hawaii.  I got it within the expected delivery dates.  I tried it on my Sony Vaio PCG-FRV series laptop and fits like a glove.  This product equalled up to my expectations and I recommend this product for people who like to carry their laptop in their school bag.  The only problem I got was the tracking info was wrong.  It wasn't Amazon.com to blame but it was the USPS's fault for the tracking.
+ entities:  computer sleeve
+ entities:  USPS
+
+I bought this TV through Amazon back in 2000.  Picture quality is still great and still going going strong.  This TV is a trooper.  As with all TVs if you want phenomenal sound I would connect to a surround system.
+ entities:  Amazon
+ entities:  Picture
+
+I had purchased a gas power generator, so I was looking for cords to run thru the house in case of emergency.  Trying to avoid the "Big Box" experience, I found these cords were actually less expensive and had free shipping.
+...The GeoDiscovery Geode is a horrible, horrible implementation of a very cool technology.  I bought one to give to my wife on Mothers Day - boy was I embarassed when we started playing with it.  It took 15 minutes to link up with an orbiter - all the while me looking like an idiot standing in the middle of the street holding the thing up at the sky (I was desperate for this thing to be as cool as their website made it out to be).So 20 days later I call to get an RMA to return the mostly defective product.  Support line disconnected.  Oh boy.  Call their corporate/sales line... Every voicemail box number I keyed in had a full mailbox....
+ entities:  GeoDiscovery Geode
+ entities:  Support
+
+I saw this review in Maxim magazine back in 1999.  I read the article after I came back from a trip to London and wished I had it with me.  This is a fun point-n-click camera.  A great manual camera with a metal body.  It even smells like a REAL camera.I take it on all my vacations now and only keep black and white film in it.  I use it for the fun and quirky artistic shots.  I used it on my honeymoon in Italy and took some great pictures in Florance.  I've also used it in London and New Orleans.I used only one roll of color and decided to keep b/w in it for something different.  It's definitely an "art" camera.  No aperture settings to mess with.  I have it set from what they suggested in the manual.  There is a limited distance, but the sharpness is within 10 feet.  I wished I had this in college when I was taking photography.Lomo also has fun contests that you can enter.  Their website has users photos and different ideas for how these pictures turn out.If you are a camera collector or photo buff, this is a FUN camera to have!
+ entities:  Maxim
+ entities:  London
+ entities:  REAL
+ entities:  Florance
+ entities:  Italy
+ entities:  New
+ entities:  FUN
+
+I LOVE my Tungsten but I hate this charger. The connections are really flimsy. I have to wiggle it just right for the charger to actually charge. Also, the charge indicator becomes very inaccurate when using this device. It says fully charged in the morning and by the afternoon, the battery is less than 1/2 charged.  I have to contact Palm about the warranty.
+ entities:  Palm
+Good quality.  I Was skeptical  knowing how much they cost at Radio Shack. I am happy with the quality and the price is very affordable.
+ entities:  Radio Shack
+
+Couldn't beat the price. But lets be real it is just a USB cable not something that requires a rating.
+ entities:  USB cable
+
+I've successfully installed hard drives before without any problems, but this drive has been ridiculous.  I too am upset with the fact that this Maxtor Box came with a Quantum Fireball drive inside.  I read in another review that someone was upset with the note they received in their box telling them that they could not use the utility software that came with it.  I either missed that or didn't get it.  Call me crazy, but I just assumed that the software that came with the drive should work.I've been trying to configure this drive as a primary drive on anyone of three systems for weeks now.  Two systems didn't have a new enough BIOS for the drive even though niether of them were more than a year old.  So I decided to use the third system which is brand new.  The problem is that I have a full version of Windows 95 and upgrades for Windows 98 and Windows ME.  The Windows 95 setup won't even run, probably because WIndows 95 is only capable of handling drives up to 32 gigs.  So I decided to try Windows NT 4.0, which I also have.  After all sorts of problems, I got NT installed only to find out that it believed the 40 gig drive was a 2 gig one and that it was just about full.During all of these problems, I've been exploring the Maxtor Knowledge Base for answers, which sure didn't come with the drive.  It was only then did I learn that I probably shouldn't be using the MaxBlast software that came with it.  Ridiculus.It seems that most of these other consumers have installed it as a second drive or with a newer full version of Windows, such as a Windows 98 OEM.  If you plan on using it as a primary drive, good luck.  You're going to need it.
+ entities:  Quantum Fireball
+ entities:  BIOS
+ entities:  Windows ME
+ entities:  Windows
+ entities:  Maxtor Knowledge Base
+ entities:  NT
+ entities:  MaxBlast
+
+I purchased this camcorder in November and have successfully used 4 tapes.  Very easy to use and compact.  Most still pictures ended up being dark, but in regular daylight most video was of good quality. Last month, I inserted a brand new tape and it ended up jammed.  I couldn't eject it and the camera wouldn't perform any other function.  I returned it to the place of purchase (where I had an extended warranty) and all they could do was send it back to Canon for repair.  I figured this was no big deal, until I did some research.  Seems that the tape jamming problem is a reoccurring problem.  A friend has the same model and they have sent it to the factory twice and it still isn't working.  If you surf the review boards on different sites you will see others reporting the same problem.  I hope Canon can fix our camcorder, but if this is a known problem that can't be fixed, they should recall this model.  I encourage anyone else who encounters this problem to post a review and pressure Canon to address the issue.
+ entities:  Canon
+
+I adore these headphones. They are definitely the best portable/lightweight headphones I have used. Amazing frequency response across the entire range. Very comfortable, even if you're wearing glasses. The lifetime warranty is a big plus too.
+These are truly great binoculars and while they are expensive the price was lower than I expected to find. The only complaint is that they don't come with lens covers. You have to buy them separately. For the price Canon should include them.
+I purchased a Diamond RIO 300 almost a year ago, and I definitely say it has been great.  The one problem I've had was with the battery compartment. When Diamond designed the RIO, they took the duracell ultra batter and  built the RIO around it. Low and behold, the Duracell Ultra tends to be  bigger then most AA batteries, so I had problems when using rechargable  batteries (stupid me, saving the environment) that made the RIO shut down  every time it was bumped.  Diamond addressed this issue in a knowledge base  (which was hard to find) and basically said &quot;shove something in there  to make the battery fit.  I use foil now (which sometimes makes the  compartment pop open, but only when it's in my backpack) and haven't had  much problems yet.  However, Diamond's tech support is very horrible in  trying to get merchandise replaced (which I've tried with my rio and other  diamond products).  I'll probably purchase a RIO 500 just because it has a  better battery compartment design.
+ entities:  Diamond
+ entities:  RIO
+ entities:  Duracell Ultra
+ entities:  Low
+
+I purchased this bag based on the reviews and was concerned whether it could/would handle my Canon Rebel XT with a Tamron 28-300mm lens.  The camera, with lens attached fit fine and the side compartments can hold my 18-55mm lens and camera accessories.  The unit is compact and light.  It serves the user well when taking a weekend trip or going on a hike as it frees up your hands while protecting the camera and lens.
+ entities:  Tamron
+
+we use it to record our hidden tiny camera and we have caught a criminal with it who was stealing our mail, so i really recommend this tape!
+These binocs worked really well.  I used them at the shooting range and it was easy to spot bullet impacts out to 200 yards or so.  Clear optics and easy to focus.The downside is the durability.  My 5-year-old dropped them onto concrete, probably about an 18" drop.  They were facing down, and the impact was on the rubberized portion of one objective barrel only.  When I picked them up, the left and right images no longer aligned so I sent them back for repair ($10 S&H;).Bushnell responded that due to a bent objective barrel and prism damage, they were a total loss.  Really?  From an 18" drop?  To Bushnell's credit they offered to sell a replacement at only $38.  I passed and bought the Legacy version with zoom.Another disadvantage is the flimsy cloth case that it comes with.  You should probably upgrade, esp given the durability questions.
+ entities:  Bushnell
+ entities:  Legacy
+
+I bought this MDV last month and shot it around my place. My first impression of this cam is very good especially if your are new to camcorder. For under 400 grand you get all the features what the sony fellas gives like night shot, Canon optical zoom lens, Digital image stabilization and resonable resolution.Well there were some problems for some people like playback but i think this is related to the tapes people are using. For me so far things are working well. I used Panasonice linear plus tapes all the while.
+ entities:  Canon
+ entities:  Digital
+
+I didn;t notice ,it is only 3 feets.Bad things! So be careful! but it is work well. also it is very cheap.
+The instructions...very poorly written. English as taught in Seoul. I immediately bought extra batteries and a speed charger at Radio Shack.  Have not regretted it. I've had it about two weeks.  I love it. Never was big on cameras but being able to erase bad shots,  edit good ones, email,  print,  take close ups from 6-8 inches.  It is fun. Fits in my shirt pocket,  sometimes I forget I have it with me.  I am tempted to upgrade the memory but I have not reached its capacity yet. The picture quality is excellent. The video capability is a lot of fun too.  It seems too tiny to do so much.  Everyone who has seen it is impressed with it. I would buy it again.
+ entities:  English
+ entities:  Seoul
+ entities:  Radio Shack
+
+Just as described and delivered as required...it is hard to find these in the stores for us old school guys.
+Very handy (no pun intended) shutter release. Reliable and keeps camera steady for night shots.  Set your camera on a tripod and use shutter release for virtually vibration free shots
+ entities:  Reliable
+
+I've been in radio broadcasting for over 40 years.Sony MDR-V600 Studio Monitor Series Headphones. The Sony MDR-V600 phones not only sound the best, they last for years! This is the second pair of headphones I've owned in my career...THANKS SONY!
+ entities:  Studio Monitor Series Headphones
+ entities:  Sony
+
+I have owned these headphones for over 20 years.  Rarely do I write reviews, but these headphones are FANTASTIC.  Not only do they sound extremely open and transparent, but they have super flat response curve - no tubbiness in the mid bass.  Aside from two sets of pads (which are $5), I have had no trouble with these.  And they are tough...I have loaned them to several of my 6 kids and they have survived unscathed.  THESE are a definite value product!!!!!
+ entities:  FANTASTIC
+
+When, I ordered this product, I thought that it would be more powerful than what is was, It's a good product, and if your closer to what your looking at, its great, but, for I really needed, I guess, I should have researched what I really needed, much better than I did.. So, if is the range your looking for, for me, it wasn't. Eztiger44
+ entities:  Eztiger44
+
+Pros- Great Sound!!, Portable, Incredibly Comfortable, they just look coolCons- Not so durable, cord feels cheapI saw these on CNET as some of the best headphones along with ones that cost 100's of dollars and thought I'd give them a try.  I am not disappointed, they look great and sound even better.  They fold up to a small size too and can fit in your pocket.  They even come with a nice leather carrying pouch.
+ entities:  Incredibly Comfortable
+ entities:  Portable
+
+Have just started using and getting used to it. Really does help in not blowing out the sky in my shots. Just have to be careful where you place the dark part in the shot. I need to practice with this filter to really get what I hope .
+At first I couldn't wait to get this. I ordered 2 at the same time. As I started to fill the pages, I started seeing the first of several problems. Pockets were tight and it would be very easy to scratch a dvd on the zipper. Speaking of zipper, it is very hard to work when the wallet is full. The other day, I wanted to see about getting more CD wallets (not necessarily Fellows) when I read the reviews here for this wallet. I read the part about not putting cd's in the inner pockets because they would bend. I went home and checked mine. Sure enough, when the wallet is full, the cd's are slightly bent. I would imagine if they were left that way for a period of time, they would probably stay curved.
+Five years ago my boss provided me with one shiny new LCD monitor and one old CRT so that I could have a two-monitor desktop, but the CRT, and all the other ones available in the company, were extremely blurry and made my eyes hurt.Then my friend's mom gave me her hold NEC which had been sitting in her driveway for a few months.  I wiped the mud off and took it to work to replace the blurry CRT, and it's been a great monitor ever since!
+ entities:  CRT
+
+The good news is that this uses AA batteries, none of those AAA batteries that have almost the same linear dimensions, but not nearly the same volume, and consequently don't play nearly as long as the AA batteries.  The Mini World 100 PE is very small.  You always have room in a pocket or book case.  You now can take a radio absolutely anywhere. It clips to your belt with no inconvenience.  The FM stereo sound through headphones is superb.  I recommend this nifty receiver when you want to listen to local AM or FM. Finding a SW station on the puny, inaccurate frequency scales is excruciatingly difficult.  This receiver may pull in the station you're looking for, but you's need Great Caesar's Ghost to help you find it on the dial.  My real need was for hearing the National Public Radio network's All Things Considered programs.  This radio will go with me anywhere for that, but I kissed off the possibility of ENJOYING finding favorite SW stations.
+ entities:  Mini
+ entities:  Great Caesar
+ entities:  National Public Radio
+
+Purchased this cable to have an extension for my portable PA system. It was everything that the manufacture claimed and it is nice to have that extra length when you really need it.
+My son is a DJ he needs to have music ready. He makes his own music the sleeves can be written on.
+Very happy with how it has worked out. Purchased cord to make my iPhone charger longer. It works perfectly for what I needed.
+I use it inside a laptop bag that came with my carry-on suitcase to add more padding...its great, looks good too. Had it for a year and looks new.
+I bought the entry level elph camera something like 4 years ago. It's simple, direct and has only one lense setting. But over those years, this little camera has taken great shots. It makes everything look far away, as the lennse is almost wide angle. So for scenery, you get the entire view. However, for taking pictures of people, it is great at a close distance, as it opens fast and shoots faster. You can often "catch the moment" in a way that a 35 mm won't - especially as people see it coming. This camera, you just pull out of your pocket or fanny pack and snap a pix. It also has a pretty good and quick exposure caibration system, as the photos tend to be exposed just about right. So, for $45 it can't beat.
+This isn't a high priced high quality lens filter.  But it doesn't degrade the image, it has a solid seal so dust doesn't get between the filter and the lens element, and it protects the lens if it were to fall.  So it isn't great... but it isn't awful.  When you have an opportunity and more funds, replace it for outdoor shots with a polarizing filter in the 50 to $100 range.
+A very good low cost portable DVD machine. I've had mine since October of 2001 and have had no problems. Playback is great, picture is fine, battery last well thru a single movie and most of another. Unit has never damaged a disc of mine. My ONLY complaint, is that they did not package this so you could recharge your battery and still use the unit at the same time. Don't spend a fortune on portable DVD units! this one does nicely at almost half the price of the rest.
+ entities:  Playback
+ entities:  Unit
+
+Lets face it , for 28 and change I should have known better. Milk jug caps have better fit than the lens caps that come with these , the optics themselves yeah you can see with them a little but don't expect to see the allied landing on Normandy unless its 50 feet from you. I would hesitate to buy anything from bushnell around this price range until your up in the $200+ price range and its still probably NOT made in the USA. These will be going back and I will pick up a pair in a store , in person , good luck and happy hunting.
+ entities:  Milk
+ entities:  Normandy
+ entities:  USA
+
+I dont use it often it is paper thin. and very small, it flat down often. it does not even retain a water bottle
+this item is an inexpensive handy item to adjust the volume on your IPod, etc without using the control of the IPod.However, this is not an amplifier, but a vclume control only
+ entities:  IPod
+
+My company bought everyone this phone. From my experience it works great. Clear sound for incoming and outgoing and comfortable (for me at least). Our office upgraded our phones to wireless. We now use PLANTRONICS CS50. Plantronics also have good customer service. The replace any problem with their merchandise within the year of purchase. Great investment for all.
+ entities:  Clear
+ entities:  PLANTRONICS CS50
+ entities:  Great
+
+The sub is OK, rounds out a basic system, low price for basic performance.  However, the one I purchased stopped working after about a month of use.  KLH asked me to send the power unit into them for repair.  I have not heard one word from them since.  Phone calls and e-mails have not been returned.  It is like I never existed.  So be wary, sometimes buying cheap cost you in the end.
+ entities:  KLH
+ entities:  Phone
+
+Plugged everything in and router works fine, though I'm just using it to share an internet cable connection and to have a physical firewall.But the CD that comes with the router is for Windows/PC only, so could not use any of the 'set-up' info and settings...though again often with Macs we don't fuss with all of this.I did check some forums, and found how to log on to the Linksys site and see my settings.  If I remember at this site the password and logon is "Admin".Sent an email to tech support about sending more info or advice about setup with a Mac running OS 10.4 but never heard back.Unit does seem to be of better quality than old Netgear router it was replacing. One concern I have is whether I'll be able to update the software at the site with the Mac?
+ entities:  Linksys
+ entities:  Netgear
+
+I purchased this for my wife a week ago as an anniversary gift.  I already have a Nook ST and an IPAD2.  It was a very simple setup.  The colors are stunning and the build quality is excellent.  It is not as fast as my IPAD2 but it's no slouch either.  The screen is very responsive to the touch.  The Nook Color is perfect for someone who is looking for a device that is optimized for ebooks yet allows email, web-surfing, and video.  It even does flash which my IPAD2 doesn't.  I probably won't root it because for my wife's purposes it pretty much does everything she needs, but it can be rooted and used as a full fledged Android tablet.  I really like this device.  It is a little on the heavy side for an ereader but it is a great value for $250. I would definitely recommend it to others.
+ entities:  IPAD2
+ entities:  Nook ST
+ entities:  Nook Color
+ entities:  Android
+
+I have bought two of this keyboard and none of them wor more that want year. I don`t recoment this product, even they don`t give internet support to this device.
+This bag works well for my camera equipment.  Plenty of compartments for my lens filters, cleaning kit, microdisk etc...  This bag is durable, great looking and has enough padding to ensure the safety of your equipment.  This is well worth the money spent to purchase this product.
+ entities:  Plenty
+I bought a TRV-525 in May '01 for a trip to Italy and I have had nothing but good success with this camera.  The video output is of an excellent quality, in all sorts of light levels and situations.  The built in picture stabiliazion works very well, even when taking video in a moving boat or just walking around.  When coupled with a longer life battery, (I bought an 8-hour infoLithium) I was really able to burn through some tapes.  Also, I have found a few uses for the 0Lux nightshot that I didn't anticipate ever using.The still imaging function is okay, although I wish that this model had 1024x768 resolution instead of it's 680x480.  The high side is the screen capture function during playback.  The only really odd thing about the still picture function is that ou have to switch from video mode to still mode to save pictures to the memory stick--The photo button in video mode only freezes the frame for a few seconds.The other thing that I found out (later) was that the 16:9 aspect ratio only works if you TV can handle it...otherwise the image gets compressed horizontally (the camera will not output letterbox).However, all in all, this has been a great video camera.
+ entities:  Italy
+
+As soon as I opened the box, I was pleasantly surprised with what I had purchased.  This stereo is typical of other Aiwa products I have owned.  The fit and finish are excellent, the sound is great for it's small size,  and it's features are many and unique.  A subwoofer will be required for  deep base fans, but overall it's the best deal I've ever gotten on a  stereo.
+I have spent a while reading different reviews on different portable dvd players want to share my findings and why I believe the Sharp DVD-L70 is the best.  A while ago I bought a Panasonic L10 which was good, but when the Panasonic L50 was released, I upgraded to this model because the screen image looked a lot better and films were more enjoyable.  The problem I have found with the L50 was visible horizontal scan lines. The visible scan lines did get on my nerves after a few weeks of watch films (forget about watching in zoom mode unless you want an epileptic fit).  Now I have upgraded again to the Sharp player.  I find the 7" screen a lot better for watching films and the sound through Sharp's small speakers are, in my opinion very good.  I do have a couple of gripes about the player though,  1. The pixels are larger on Sharp's TFT panel and even though it has 337,000 of them compared to Panasonic's (L50) 280,000, the Panasonic's TFT image is sharper and doesn't show jagged edges on objects or diagonal lines. 2. The Sharp player should have all of the features on the remote made available on the player.  One thing that really bothers me was that there was no resume button on the player.  On the Panasonic player when you pressed stop/start, it resumed.  On the Sharp player, you can press the Resume button on the remote but not through the play button on the player.  If this is not the case, can someone enlighten me? My conclusion is: If you want a player which offers the best (non-blocky) image and don't mind scan lines then buy the Panasonic L50 (be warned that this player gets very, very, hot). If you don't mind a slightly blocky image then buy the Sharp player.  I have, and have no regrets.  I believe this is currently the best player on the market and prices are coming down.  You could always wait until manufactures bring out the new models after Christmas in early 2001, which have 8", screens as these may be better, but who knows?
+ entities:  Sharp
+ entities:  Panasonic L50
+ entities:  L50
+ entities:  Panasonic
+ entities:  TFT
+
+I was questioning the power of these binoculars prior to buying them.  I wanted something lightweight enough for hiking, backpacking and birdwatching so I bought these.  I am very pleased with the optics and recently compared these to a small pair of Nikon's my friend had paid double the money for, needless to say, the Canon 8x23's put his to shame.  They had much better clarity at further distances, plus there was more viewable area with better lighting.  Don't waste your money on other brands, Canon has done a great job with this product and I am going to buy a second pair for my wife.  I would put these up against full size Binoculars any day, but not of course a $1K pair!  Great buy for the money and you will be pleased.
+ entities:  Nikon
+ entities:  Canon
+ entities:  Great
+
+I returned this because the headphone jack didn't connect well with my samsung smart phone. I use the phone with several other sets of headphones and don't have this problem with any of them.  If I compare the plug with the other headphones that work I can't see a difference so I'm assuming that it's minor but enough to cause  a problem.
+What drove me to buy these headphones is their comfort level and sound quality. And that they were compatible with portable devices.I hooked them up to my Cowon S9, considered an "audiophile quality" device. I had high expectations given all the glowing reviews. Some even compared these to $500 "studio" headphones. When I listened to them for the first time, I was thoroughly disappointed. My old Ultimate Ears (Ultimate Ears SuperFi 3 Studio) were superior in sound quality, namely they faithfully reproduced transients in music. This makes music engrossing and exciting to listen to.The probblem I suspect is the impedance. These are too high for portable devices. They're rated 60 ohms, 101 dB sensitivity, compared to my Ultimate Ears which are 13 ohms, 115 dB sensitivity. Even at max volume (40/40) the Portapro's are not as loud as my Ultimate Ears at 30/40! And this is disregarding the effect of noise isolation. In fact without noise isolation, the Koss Portapro lose ("leak") even more volume. The Koss Portapro just sounded very flat with little dynamic range and no "punch" to transients, for example bass sounded loose and mushy. Like you would expect from a subwoofer in a high order enclosure with large ports, compared to a small closed enclosure.Typically high impedance speakers combined with rigid driver construction, will have low dB sensitivity and require a lot more than they typical power required for a speaker of that size. That's exactly the case here.Hooking the Koss Portapro up to my Onkyo receiver, they suddenly got VERY loud and had plenty of dynamic range. (Still, nowhere near the sound experience I get from my very cheap home stereo. Clearly headphone technology doesn't come close to even an average home stereo...) By comparison, the Ultimate Ears plugged into my Onkyo receiver began to clip when I tried to reach the same high SPL (Sound Pressure Level). Clearly the Koss Portapro is far better suited for home stereo listening (except for the short 4 ft. cable length), NOT for portable use!It looks like I'll be investing in some kind of amp, and I suspect the cost of the amp plus these headphones would be nearly the same as the cost of my Ultimate Ears (or comparable noise isolating earphones). You get what you pay for...
+ entities:  Ultimate Ears
+ entities:  Portapro
+ entities:  Koss Portapro
+ entities:  VERY
+ entities:  Sound
+
+I have paid much more for shorter cables and in some cases they did not work.These are long enough for my use and work as expected.
+Floppy drive was a great purchase.  Works on all my machines of varying 64/32 bit, operating systems, and motherboard configurations.  Highly recommend this to others.
+ entities:  Floppy
+
+Its a perfect but for ur s4 to complement its awesome camera. It also comes witha card reader for ur laptop whichis a great deal
+After careful review of various options to wirelessly network 2 laptops and a PC in my home, I decided on the Linksys Wireless DSL/Cable Router w/ Print Server (BEFW11P1) and two Wireless PC Cards (WPC11). This network was SO easy to install and works like a charm with our Cable modem. All of us can quickly share files and work on-line at the same time. It's a great and affordable solution and I was surprised at how easy the setup was. I can definitely recommend this system to anyone.
+ entities:  BEFW11P1
+ entities:  Linksys Wireless
+ entities:  Print Server
+ entities:  WPC11
+
